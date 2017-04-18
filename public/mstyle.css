@@ -1,0 +1,126 @@
+body{
+  	font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+  	font-size: 13px;
+	background-color: #FFC200;
+	line-height: 1;
+	
+}
+
+strong, em, b, i, h1, h2, h3, h4, h5, h6, address {
+    font-family: "Lucida Sans", "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, .title{
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-size: 24px;
+	font-weight: 400; 
+	text-transform: uppercase;
+	margin: 10px;
+}
+
+h2{
+	font-size: 20px;
+  	font-weight: normal;
+  	margin-bottom: 20px;
+}
+
+h3{
+  font-size:24px;
+  margin: 20px 0 0px 0;
+  font-weight: normal;
+}
+
+h4{
+	font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 4px;
+  margin-top: 4px	;
+}
+
+p{	
+	line-height: 1.4;
+  	margin: 10px
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin-bottom: 10px;
+}
+li{
+
+	padding-bottom: 6px;
+}
+
+#head-container{
+	text-align: center;
+}
+
+#groups-container li{
+	border-top: 1px solid #ccc;
+	text-align: center;
+}
+
+#groups-container li a{
+	display: block;
+	padding: 10px;
+
+}
+
+a:link, a:hover, a:active, a:visited{
+	text-decoration: none;
+}
+
+
+
+#page{
+	background-color: white;
+	padding: 10px;
+	width: 100%;
+}
+
+.info{
+	list-style: disc;
+	list-style-position: inside;
+	padding-left: 2.5em;
+	text-indent: -2.5em;
+	line-height: 1.8;
+}
+
+.info li{
+	margin: 5px;
+}
+
+
+
+.registration-button{
+	color: white;
+	text-align: center;
+  -webkit-border-radius: 10px;
+	border-radius: 10px;
+  padding: 20px 0 20px 0;  
+  margin-bottom: 20px;
+
+  display: block;
+  border: 1px solid #399E32;
+
+  background: #57d644; /* Old browsers */
+}
+
+.registration-button a:link, .registration-button a:visited, .title{
+	color: white;
+	font-size: 20px;
+}
+
+
+.list-box{
+	border-top: 1px solid #ccc;
+	padding: 10px;
+}
