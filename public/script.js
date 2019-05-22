@@ -19,7 +19,7 @@ var mainMap = function(){
 	addSpot(64.12321,-21.874123, 'gardbuar'); // Garðbúar
 	addSpot(64.117759,-21.794257, 'arbuar'); // Árbúar
 	addSpot(64.134128,-21.857901, 'skjoldungar'); // Skjöldungar
-	//addSpot(64.129765,-21.907768, 'landnemar'); // Landnemar
+	addSpot(64.129765,-21.907768, 'landnemar'); // Landnemar
 	addSpot(64.133341,-21.789064, 'hamar'); // Hamar
 	//addSpot(64.126095,-21.758208, 'dalbuar'); // Dalbúar
 	addSpot(64.105898,-21.878500, 'kopar'); // Kópar
@@ -27,7 +27,7 @@ var mainMap = function(){
 	addSpot(64.167957,-21.686025, 'mosverjar'); // Mosverjar
 	addSpot(64.091248,-21.91957, 'vifill'); // Vífill
 	addSpot(64.103949,-22.019992, 'svanir'); // Svanir
-	//addSpot(64.141915,-21.958966, 'aegisbuar'); // Ægisbúar
+	addSpot(64.141915,-21.958966, 'aegisbuar'); // Ægisbúar
 
 	// Create information window
 	function addSpot(lat, lon, url){
