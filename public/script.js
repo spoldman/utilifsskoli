@@ -20,7 +20,7 @@ var mainMap = function(){
 	addSpot(64.117759,-21.794257, 'arbuar'); // Árbúar
 	addSpot(64.134128,-21.857901, 'skjoldungar'); // Skjöldungar
 	addSpot(64.129765,-21.907768, 'landnemar'); // Landnemar
-	addSpot(64.133341,-21.789064, 'hamar'); // Hamar
+	addSpot(64.133341,-21.789064, 'vogabuar'); // Vogabuar
 	//addSpot(64.126095,-21.758208, 'dalbuar'); // Dalbúar
 	addSpot(64.105898,-21.878500, 'kopar'); // Kópar
 	addSpot(64.075952,-21.965489, 'hraunbuar'); // Hraunbúar
